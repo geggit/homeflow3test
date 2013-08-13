@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  location: MyString
+  minprice: 1
+  maxprice: 1
+  beds: 1
+
+two:
+  location: MyString
+  minprice: 1
+  maxprice: 1
+  beds: 1
