@@ -1,4 +1,5 @@
 class HousesController < ApplicationController
+  require 'json'
   before_action :set_house, only: [:show, :edit, :update, :destroy]
 
   # GET /houses
