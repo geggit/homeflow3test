@@ -10,7 +10,7 @@ class HousesController < ApplicationController
   # GET /houses/1
   # GET /houses/1.json
   def show
-    @house = House.find(params[:id])
+    
   end
 
   # GET /houses/new
@@ -20,7 +20,7 @@ class HousesController < ApplicationController
 
   # GET /houses/1/edit
   def edit
-    @house = House.find(params[:id])
+    
   end
 
   # POST /houses
